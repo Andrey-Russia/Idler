@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+/*using System.Collections.Generic;
 using static UnityEditor.Progress;
 
 public abstract class characters 
@@ -57,3 +57,4 @@ public class Equipment
 {
 
 }
+*/
